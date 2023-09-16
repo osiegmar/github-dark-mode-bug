@@ -2,7 +2,7 @@
 
 This repository demonstrates the bug [github/markup/#1681](https://github.com/github/markup/issues/1681).
 
-The expected behaviour would be to see only *WHITE* circles in dark mode and *BLACK* circles in light mode.
+The expected behaviour would be to see only **WHITE** circles in dark mode and **BLACK** circles in light mode.
 
 **Things to check:**
 - ERROR 1: Open [this page](https://github.com/osiegmar/github-dark-mode-bug)
