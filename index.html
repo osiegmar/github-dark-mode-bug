@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+    <style>
+        @media (prefers-color-scheme: light) {
+            body {
+                background: white;
+            }
+        }
+
+        @media (prefers-color-scheme: dark) {
+            body {
+                background: black;
+            }
+        }
+    </style>
+</head>
+<body>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="circle_black.png">
+    <source media="(prefers-color-scheme: dark)" srcset="circle_white.png">
+    <img src="circle_red.png" alt="">
+</picture>
+
+<img src="circle.svg" width="100" height="100" alt=""/>
+</body>
+</html>
