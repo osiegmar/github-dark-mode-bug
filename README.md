@@ -19,7 +19,7 @@ but is now deprecated (see next section).
 
 ## Via HTML picture element
 
-Current recommended way is documented in [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to)
+Current recommended way is documented in [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to).
 
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="circle_black.png">
